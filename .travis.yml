@@ -1,0 +1,15 @@
+language: go
+install: go get -v github.com/spf13/hugo
+script:
+  - hugo
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: blog.keendly.com
+  region: eu-west-1
+  skip_cleanup: true
+  local_dir: public
+notifications:
+    email:
+        on_failure: always
