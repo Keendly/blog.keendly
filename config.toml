@@ -1,0 +1,24 @@
+baseurl = "http://blog.keendly.com"
+languageCode = "en-us"
+title = "Keendly blog"
+theme = "beautifulhugo"
+author = "Keendly"
+
+[Params]
+  logo = "img/avatar-icon.png"
+
+[Author]
+  email = "contact@keendly.com"
+  facebook = "KeendlyApp"
+#  github = "username"
+  twitter = "KeendlyApp"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/page/about/"
+  weight = 2
