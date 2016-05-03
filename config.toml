@@ -1,4 +1,4 @@
-baseURL = "http://blog.keendly.com"
+baseURL = "http://blog.keendly.com/"
 languageCode = "en-us"
 title = "Keendly blog"
 theme = "beautifulhugo"
