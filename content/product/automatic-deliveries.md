@@ -9,16 +9,16 @@ date = "2016-05-24T23:16:04-07:00"
 Today is the day. We are pleased to announce by far the most requested feature - **automatic deliveries**.
 
 We call them subscriptions. You can subscribe to feeds and have their articles delivered on daily basis, automatically.
-Process of creating subscriptions is almost identical to the one for single delivery:
+Process of creating subscription is almost exactly the same as the one for single delivery:
 
 * Log in
 * Select feeds you want us to send to your Kindle automatically
 * Click **SUBSCRIBE**
 * Configure your subscription:
   ![Configure delivery](/img/automatic-deliveries/configure.png)
-  There are two more field comparing to single delivery configuration:
+  There are two more fields comparing to single delivery configuration:
   - *Delivery time* - what time do you want to receive articles
-  - *Time zone* - what time zone specified time is, we try to detect timezone you are in, so if you are not sure what to put here, it should be safe to leave the default value
+  - *Time zone* - in what time zone specified time is, we try to detect timezone you are in, so if you are not sure what to put here, it is safe to leave the default value
 
 * Click **SUBSCRIBE** again
   ![Voila!](/img/automatic-deliveries/voila.png)
