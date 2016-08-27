@@ -1,6 +1,6 @@
 +++
 bigimg = ""
-title = "Inoreader token expiration"
+title = "Inoreader token expired notifications"
 type = "post"
 date = "2016-08-27T02:16:04-07:00"
 +++
