@@ -1,0 +1,26 @@
+baseURL: "http://blog.keendly.com/"
+languageCode: "en-us"
+title: "Keendly blog"
+theme: "beautifulhugo"
+googleAnalytics: "UA-76042310-3"
+disqusShortname: "keendly"
+
+Author:
+  name: "Keendly"
+  URL: "https://keendly.com"
+  email: "contact@keendly.com"
+  facebook: "KeendlyApp"
+  github: "Keendly"
+  twitter: "KeendlyApp"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+menu:
+  main:
+    - name: "Product"
+      url: "/product/"
+      weight: = 1
+    - name: "Technology"
+      url: "/technology"

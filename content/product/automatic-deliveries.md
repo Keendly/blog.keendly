@@ -1,10 +1,10 @@
-+++
-bigimg = ""
-subtitle = ""
-title = "Automatic deliveries"
-type = "post"
-date = "2016-05-24T23:16:04-07:00"
-+++
+---
+title: "Automatic deliveries"
+subtitle: "The most requested feature is there!"
+type: "post"
+date: "2016-05-24T23:16:04-07:00"
+categories: [ "Product" ]
+---
 
 Today is the day. We are pleased to announce by far the most requested feature - **automatic deliveries**.
 

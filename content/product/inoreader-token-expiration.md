@@ -1,9 +1,10 @@
-+++
-bigimg = ""
-title = "Inoreader token expired notifications"
-type = "post"
-date = "2016-08-27T02:16:04-07:00"
-+++
+---
+title: "Inoreader token expired notifications"
+subtitle: "Never miss your feeds again"
+type: "post"
+date: "2016-08-27T02:16:04-07:00"
+categories: [ "Product" ]
+---
 
 Quick announcement for Inoreader users today.
 Keendly integration with Inoreader is based on [Oauth](https://www.inoreader.com/developers/oauth).

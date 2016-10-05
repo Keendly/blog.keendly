@@ -1,10 +1,10 @@
-+++
-bigimg = ""
-subtitle = ""
-title = "Meet Keendly"
-type = "post"
-date = "2016-05-02T19:20:04-07:00"
-+++
+---
+title: "Meet Keendly"
+subtitle: "Send your favorite content right to your Kindle"
+type: "post"
+date: "2016-05-02T19:20:04-07:00"
+categories: [ "Product" ]
+---
 
 Let me introduce Keendly, a service that allows you to enjoy content from your favorite websites as you would enjoy a book.
 

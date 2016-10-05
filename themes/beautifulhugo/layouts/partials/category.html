@@ -1,0 +1,33 @@
+<header class="header-section ">
+  <div class="intro-header no-img">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="page-heading">
+            <h1 class="small">
+              <span class="page-subheading">{{ .Title }}</span>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section id="menu">
+
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+
+        {{ if eq $key $.Params.category }}
+        <ul>
+            {{ range $taxonomy.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+            {{ end }}
+        </ul>
+        {{end}}
+
+
+        {{ end }}
+    </ul>
+</section>
