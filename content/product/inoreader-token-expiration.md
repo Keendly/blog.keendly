@@ -17,4 +17,6 @@ The solution is very easy, just log in to Keendly, we'll refresh the tokens and 
 Although it is easy to fix, users don't realize why they stopped receiving feeds. That is why we've implemented **notifications**.
 Now, if we've lost access to your account and weren't able to deliver articles to your Kindle, we will send you an email explaining what happened and asking to solve the issue by logging in to Keendly.
 
+![Email](/img/inoreader-token-expiration/email.png)
+
 We think that it will reduce uncertainty hence make our users' life better. If you have other ideas to improve our service, feel free to reach out!
