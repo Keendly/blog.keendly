@@ -7,7 +7,7 @@ It's based on [Hugo](https://gohugo.io/) engine.
 
 Blogging
 --------
-To create a post, write it using [markdown](https://gohugo.io/content/example/) and put in the `content` directory.  
+To create a post, write it using [markdown](https://gohugo.io/documentation/) and put in the `content` directory.  
 You can run the *Hugo* server locally and see how the end result is gonna look like:  
 `hugo server --theme=beautifulhugo --buildDrafts --watch`
 
