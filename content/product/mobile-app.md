@@ -2,6 +2,7 @@
 title: "Welcome Keendly mobile app"
 subtitle: "You can now have Keendly always at hand"
 type: "post"
+date: "2018-01-30T10:30:00"
 categories: [ "Product" ]
 ---
 
